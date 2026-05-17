@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcrun simctl *)",
+      "Bash(xcode-select -p)",
+      "Bash(npm install *)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(unzip -l \"/Users/gozbertjoachim/Downloads/Goz 2.0.zip\")",
+      "Bash(mkdir -p /tmp/goz_design)",
+      "Bash(unzip -o \"/Users/gozbertjoachim/Downloads/Goz 2.0.zip\" -d /tmp/goz_design/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/)",
+      "Bash(npm run *)",
+      "Bash(pkill -f \"vite\")",
+      "Bash(node gen-icons.mjs)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}
