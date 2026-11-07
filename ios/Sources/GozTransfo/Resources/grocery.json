@@ -1,0 +1,622 @@
+{
+  "1": [
+    {
+      "cat": "🥚 Proteins",
+      "col": "oklch(0.92 0.22 130)",
+      "items": [
+        {
+          "name": "Eggs (18 pack)",
+          "qty": "1–2 packs",
+          "est": "$5–6",
+          "why": "Your #1 protein — 3 eggs every breakfast"
+        },
+        {
+          "name": "Canned Tuna (in water)",
+          "qty": "8–10 cans",
+          "est": "$8–10",
+          "why": "Quick lunch protein — zero prep needed"
+        },
+        {
+          "name": "Chicken Breast",
+          "qty": "1 kg",
+          "est": "$10–12",
+          "why": "Dinner protein for 5–6 meals of the week"
+        },
+        {
+          "name": "Greek Yogurt (plain)",
+          "qty": "4-pack",
+          "est": "$5–6",
+          "why": "Snack + breakfast base — high protein"
+        },
+        {
+          "name": "Canned Salmon",
+          "qty": "3 cans",
+          "est": "$6–7",
+          "why": "Omega-3s + easy meal variety"
+        }
+      ]
+    },
+    {
+      "cat": "🌾 Carbs & Grains",
+      "col": "oklch(0.85 0.18 200)",
+      "items": [
+        {
+          "name": "Oats (large flake)",
+          "qty": "1 kg bag",
+          "est": "$4",
+          "why": "Breakfast base — fills you, slow energy"
+        },
+        {
+          "name": "Brown Rice",
+          "qty": "2 kg bag",
+          "est": "$4–5",
+          "why": "Lunch carb base for the whole week"
+        },
+        {
+          "name": "Whole Wheat Bread",
+          "qty": "1 loaf",
+          "est": "$3–4",
+          "why": "Toast with eggs — complex carbs only"
+        },
+        {
+          "name": "Lentils (red or green)",
+          "qty": "500g bag",
+          "est": "$2–3",
+          "why": "Cheap protein + fibre — great with chicken"
+        },
+        {
+          "name": "Chickpeas (canned)",
+          "qty": "2 cans",
+          "est": "$2–3",
+          "why": "Salad bulk-up + fibre"
+        }
+      ]
+    },
+    {
+      "cat": "🥦 Vegetables",
+      "col": "oklch(0.78 0.22 340)",
+      "items": [
+        {
+          "name": "Frozen Broccoli",
+          "qty": "1 kg bag",
+          "est": "$4",
+          "why": "Easy steamed side — every dinner"
+        },
+        {
+          "name": "Spinach (fresh or frozen)",
+          "qty": "1 bunch",
+          "est": "$2–3",
+          "why": "In omelettes, salads, or steamed"
+        },
+        {
+          "name": "Onions",
+          "qty": "3 lb bag",
+          "est": "$3",
+          "why": "Flavour base for every cooked meal"
+        },
+        {
+          "name": "Garlic",
+          "qty": "1–2 bulbs",
+          "est": "$1–2",
+          "why": "Anti-inflammatory, adds flavour without calories"
+        },
+        {
+          "name": "Tomatoes",
+          "qty": "6-pack",
+          "est": "$3–4",
+          "why": "Salad + breakfast scrambles"
+        },
+        {
+          "name": "Cucumber",
+          "qty": "3 pack",
+          "est": "$2–3",
+          "why": "Snack + salad base — hydrating, zero cal"
+        }
+      ]
+    },
+    {
+      "cat": "🍌 Fruits",
+      "col": "#FF9F0A",
+      "items": [
+        {
+          "name": "Bananas",
+          "qty": "1 bunch (7)",
+          "est": "$2–3",
+          "why": "Pre-workout energy + breakfast potassium"
+        },
+        {
+          "name": "Apples",
+          "qty": "6-pack",
+          "est": "$4–5",
+          "why": "Snack — fibre + natural sugar hit"
+        },
+        {
+          "name": "Lemons",
+          "qty": "5-pack",
+          "est": "$2",
+          "why": "Lemon water every morning + dressing"
+        },
+        {
+          "name": "Oranges",
+          "qty": "4-pack",
+          "est": "$3–4",
+          "why": "Vitamin C + natural sweetness"
+        }
+      ]
+    },
+    {
+      "cat": "🫙 Pantry & Fats",
+      "col": "#FFD60A",
+      "items": [
+        {
+          "name": "Olive Oil (extra virgin)",
+          "qty": "500ml",
+          "est": "$8–10",
+          "why": "Only cooking fat — heart-healthy"
+        },
+        {
+          "name": "Black Pepper + Mixed Herbs",
+          "qty": "as needed",
+          "est": "$3–5",
+          "why": "Season everything without extra calories"
+        },
+        {
+          "name": "Canned Diced Tomatoes",
+          "qty": "2 cans",
+          "est": "$2–3",
+          "why": "Sauce base for chicken dishes"
+        },
+        {
+          "name": "Mustard (Dijon)",
+          "qty": "1 jar",
+          "est": "$2",
+          "why": "Zero-cal flavour for chicken + sandwiches"
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "cat": "🥚 Proteins",
+      "col": "oklch(0.92 0.22 130)",
+      "items": [
+        {
+          "name": "Chicken Breast",
+          "qty": "1.5 kg",
+          "est": "$14–16",
+          "why": "Higher volume as workout intensity rises"
+        },
+        {
+          "name": "Canned Tuna",
+          "qty": "8 cans",
+          "est": "$8–10",
+          "why": "Lunch staple — 30g protein per can"
+        },
+        {
+          "name": "Eggs (18 pack)",
+          "qty": "1–2 packs",
+          "est": "$5–6",
+          "why": "Breakfast protein every day"
+        },
+        {
+          "name": "Cottage Cheese",
+          "qty": "500g tub",
+          "est": "$4–5",
+          "why": "Night-time protein — slow digesting"
+        },
+        {
+          "name": "Shrimp (frozen)",
+          "qty": "500g bag",
+          "est": "$8–10",
+          "why": "Lean protein variety for dinner"
+        },
+        {
+          "name": "Ground Turkey (lean)",
+          "qty": "500g",
+          "est": "$7–9",
+          "why": "Bowl meals + meal prep flexibility"
+        }
+      ]
+    },
+    {
+      "cat": "🌾 Carbs & Grains",
+      "col": "oklch(0.85 0.18 200)",
+      "items": [
+        {
+          "name": "Sweet Potatoes",
+          "qty": "4–5 medium",
+          "est": "$4–5",
+          "why": "Complex carb for post-workout recovery"
+        },
+        {
+          "name": "Quinoa",
+          "qty": "500g bag",
+          "est": "$5–6",
+          "why": "Complete protein + carb — Phase 2 upgrade"
+        },
+        {
+          "name": "Brown Rice",
+          "qty": "2 kg",
+          "est": "$4–5",
+          "why": "Lunch base for the week"
+        },
+        {
+          "name": "Oats",
+          "qty": "1 kg",
+          "est": "$4",
+          "why": "Breakfast every day"
+        },
+        {
+          "name": "Whole Wheat Wraps",
+          "qty": "pack of 8",
+          "est": "$3–4",
+          "why": "Chicken wraps — easy on-the-go lunch"
+        }
+      ]
+    },
+    {
+      "cat": "🥦 Vegetables",
+      "col": "oklch(0.78 0.22 340)",
+      "items": [
+        {
+          "name": "Mixed Stir-Fry Veg (frozen)",
+          "qty": "1 kg",
+          "est": "$4–5",
+          "why": "Quick chicken stir-fry in 10 min"
+        },
+        {
+          "name": "Broccoli (fresh or frozen)",
+          "qty": "1 kg",
+          "est": "$4",
+          "why": "Every dinner side — high fibre"
+        },
+        {
+          "name": "Bell Peppers",
+          "qty": "3-pack",
+          "est": "$3–4",
+          "why": "Stir-fry + omelette colour + vitamins"
+        },
+        {
+          "name": "Kale",
+          "qty": "1 bunch",
+          "est": "$2–3",
+          "why": "Denser nutrients than spinach"
+        },
+        {
+          "name": "Mushrooms",
+          "qty": "227g pack",
+          "est": "$3",
+          "why": "Low-cal meal extender + breakfast"
+        }
+      ]
+    },
+    {
+      "cat": "🥑 Healthy Fats",
+      "col": "#FF9F0A",
+      "items": [
+        {
+          "name": "Avocados",
+          "qty": "3–4",
+          "est": "$4–6",
+          "why": "Post-workout fats — nutrient-dense"
+        },
+        {
+          "name": "Almonds (raw)",
+          "qty": "200g bag",
+          "est": "$4–5",
+          "why": "Snack — protein + healthy fat"
+        },
+        {
+          "name": "Olive Oil",
+          "qty": "500ml",
+          "est": "$8–10",
+          "why": "All cooking + salad dressing"
+        },
+        {
+          "name": "Flaxseeds",
+          "qty": "250g bag",
+          "est": "$3–4",
+          "why": "Stir into yogurt — omega-3 boost"
+        }
+      ]
+    },
+    {
+      "cat": "🍌 Fruits",
+      "col": "#FFD60A",
+      "items": [
+        {
+          "name": "Bananas",
+          "qty": "1 bunch",
+          "est": "$2–3",
+          "why": "Pre-workout every day"
+        },
+        {
+          "name": "Berries (frozen)",
+          "qty": "500g bag",
+          "est": "$4–5",
+          "why": "Antioxidants — into yogurt or oats"
+        },
+        {
+          "name": "Apples",
+          "qty": "6-pack",
+          "est": "$4–5",
+          "why": "Snack with almond butter"
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "cat": "🥚 Proteins (priority)",
+      "col": "oklch(0.92 0.22 130)",
+      "items": [
+        {
+          "name": "Chicken Breast",
+          "qty": "1.5 kg",
+          "est": "$14–16",
+          "why": "200g per meal — protein is king in Phase 3"
+        },
+        {
+          "name": "Canned Tuna (in water)",
+          "qty": "10 cans",
+          "est": "$10–12",
+          "why": "Lunch every day — lowest fat protein"
+        },
+        {
+          "name": "Eggs + Egg Whites",
+          "qty": "18 eggs + carton whites",
+          "est": "$9–12",
+          "why": "High-protein low-carb breakfast"
+        },
+        {
+          "name": "Shrimp",
+          "qty": "500g",
+          "est": "$8–10",
+          "why": "Low-cal dinner protein on Definition phase"
+        },
+        {
+          "name": "Sardines (in water)",
+          "qty": "4 tins",
+          "est": "$5–6",
+          "why": "Omega-3 + 22g protein per tin"
+        },
+        {
+          "name": "Protein Powder (whey)",
+          "qty": "1 serving/day",
+          "est": "$—",
+          "why": "Top up protein if meals fall short"
+        }
+      ]
+    },
+    {
+      "cat": "🥦 Vegetables (bulk up)",
+      "col": "oklch(0.78 0.22 340)",
+      "items": [
+        {
+          "name": "Frozen Broccoli",
+          "qty": "2 kg bags",
+          "est": "$7–8",
+          "why": "Eat more of this — fills you with zero carbs"
+        },
+        {
+          "name": "Spinach",
+          "qty": "2 bunches",
+          "est": "$4–5",
+          "why": "Salad base + scramble filler"
+        },
+        {
+          "name": "Asparagus",
+          "qty": "1 bunch",
+          "est": "$3–4",
+          "why": "Premium veg for Phase 3 — low carb, diuretic"
+        },
+        {
+          "name": "Zucchini",
+          "qty": "3 medium",
+          "est": "$2–3",
+          "why": "Rice substitute — spiralize or chop"
+        },
+        {
+          "name": "Celery",
+          "qty": "1 bunch",
+          "est": "$2",
+          "why": "Zero calorie snack crunch"
+        },
+        {
+          "name": "Cucumber",
+          "qty": "3 pack",
+          "est": "$2–3",
+          "why": "Snack or salad — hydrating"
+        }
+      ]
+    },
+    {
+      "cat": "🌾 Minimal Carbs",
+      "col": "oklch(0.85 0.18 200)",
+      "items": [
+        {
+          "name": "Oats (for morning only)",
+          "qty": "500g",
+          "est": "$3",
+          "why": "Carbs only in the morning — no dinner carbs"
+        },
+        {
+          "name": "Brown Rice (limited)",
+          "qty": "1 kg",
+          "est": "$3",
+          "why": "Lunch only — skip at dinner"
+        },
+        {
+          "name": "Rice Cakes",
+          "qty": "1 bag",
+          "est": "$3–4",
+          "why": "If you need a snack with crunch"
+        }
+      ]
+    },
+    {
+      "cat": "🫙 Fats + Pantry",
+      "col": "#FFD60A",
+      "items": [
+        {
+          "name": "Olive Oil",
+          "qty": "500ml",
+          "est": "$8–10",
+          "why": "Cooking only — measure it"
+        },
+        {
+          "name": "ACV (Apple Cider Vinegar)",
+          "qty": "1 bottle",
+          "est": "$4–5",
+          "why": "Salad dressing + metabolism boost"
+        },
+        {
+          "name": "Lemon + Lime",
+          "qty": "bag of 5",
+          "est": "$2–3",
+          "why": "Flavour without calories"
+        },
+        {
+          "name": "Hot Sauce",
+          "qty": "1 bottle",
+          "est": "$2–3",
+          "why": "Zero-cal flavour on everything"
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "cat": "🥚 Proteins (max)",
+      "col": "oklch(0.92 0.22 130)",
+      "items": [
+        {
+          "name": "Chicken Breast",
+          "qty": "2 kg",
+          "est": "$18–22",
+          "why": "200g every meal — muscle preservation"
+        },
+        {
+          "name": "Canned Tuna",
+          "qty": "10–12 cans",
+          "est": "$12–14",
+          "why": "Daily lunch — zero fat, maximum protein"
+        },
+        {
+          "name": "Egg Whites (carton)",
+          "qty": "2 cartons",
+          "est": "$8–10",
+          "why": "5 egg whites at breakfast — 20g protein, 0 fat"
+        },
+        {
+          "name": "Salmon (fresh or frozen)",
+          "qty": "500g",
+          "est": "$9–12",
+          "why": "2x per week for omega-3 + lean protein"
+        },
+        {
+          "name": "Shrimp",
+          "qty": "750g",
+          "est": "$12–14",
+          "why": "Very lean dinner protein with veggies"
+        },
+        {
+          "name": "Cottage Cheese (low fat)",
+          "qty": "500g",
+          "est": "$4–5",
+          "why": "Last meal — casein protein while you sleep"
+        }
+      ]
+    },
+    {
+      "cat": "🥦 Mostly Vegetables",
+      "col": "oklch(0.78 0.22 340)",
+      "items": [
+        {
+          "name": "Broccoli + Cauliflower mix",
+          "qty": "2 kg bags",
+          "est": "$7–9",
+          "why": "80% of your plate at dinner — zero carbs"
+        },
+        {
+          "name": "Spinach (big bag)",
+          "qty": "454g bag",
+          "est": "$4–5",
+          "why": "Salads + scrambles — iron and density"
+        },
+        {
+          "name": "Asparagus",
+          "qty": "2 bunches",
+          "est": "$5–7",
+          "why": "Phase 4 superfood — lean and diuretic"
+        },
+        {
+          "name": "Kale",
+          "qty": "2 bunches",
+          "est": "$4–5",
+          "why": "Nutrient density for final push"
+        },
+        {
+          "name": "Cherry Tomatoes",
+          "qty": "1 pint",
+          "est": "$3–4",
+          "why": "Sweetness hit without sugar penalty"
+        },
+        {
+          "name": "Green Beans",
+          "qty": "500g",
+          "est": "$3",
+          "why": "Volume eating — fills plate with minimal cals"
+        }
+      ]
+    },
+    {
+      "cat": "🌾 Carbs (strategic only)",
+      "col": "oklch(0.85 0.18 200)",
+      "items": [
+        {
+          "name": "Oats",
+          "qty": "500g",
+          "est": "$3",
+          "why": "Morning only — before your workout"
+        },
+        {
+          "name": "Sweet Potato",
+          "qty": "2 medium",
+          "est": "$2–3",
+          "why": "Post-workout only — replenish glycogen"
+        }
+      ]
+    },
+    {
+      "cat": "🫙 Clean Pantry",
+      "col": "#FFD60A",
+      "items": [
+        {
+          "name": "Olive Oil",
+          "qty": "250ml (small)",
+          "est": "$5",
+          "why": "Use sparingly — 1 tsp per meal max"
+        },
+        {
+          "name": "ACV + Lemon",
+          "qty": "bottles",
+          "est": "$6–7",
+          "why": "Dressings without calories"
+        },
+        {
+          "name": "Green Tea (unsweetened)",
+          "qty": "box of 20",
+          "est": "$3–4",
+          "why": "Metabolism + 0 calories — replace evening snacks"
+        },
+        {
+          "name": "Canned Diced Tomatoes",
+          "qty": "2 cans",
+          "est": "$2–3",
+          "why": "Sauce base — zero fat cooking"
+        }
+      ]
+    }
+  ]
+}

@@ -4,3 +4,7 @@ dist/
 *.local
 .env
 .vercel
+
+# Swift package build output
+ios/.build/
+ios/.swiftpm/

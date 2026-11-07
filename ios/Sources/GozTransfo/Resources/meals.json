@@ -1,0 +1,1322 @@
+{
+  "breakfast": {
+    "1": [
+      {
+        "name": "Scrambled Eggs & Toast",
+        "cal": 380,
+        "p": 28,
+        "c": 32,
+        "f": 12,
+        "desc": "3 eggs scrambled, 1 whole wheat toast, black coffee"
+      },
+      {
+        "name": "Banana Oat Bowl",
+        "cal": 340,
+        "p": 12,
+        "c": 58,
+        "f": 8,
+        "desc": "½ cup oats, 1 banana, cinnamon, water — no sugar"
+      },
+      {
+        "name": "Egg & Veggie Omelette",
+        "cal": 310,
+        "p": 26,
+        "c": 8,
+        "f": 18,
+        "desc": "3 eggs, spinach, onion, mushrooms — no cheese"
+      },
+      {
+        "name": "Boiled Eggs & Fruit",
+        "cal": 290,
+        "p": 20,
+        "c": 22,
+        "f": 12,
+        "desc": "3 boiled eggs, 1 orange, black coffee"
+      },
+      {
+        "name": "Egg & Avocado Toast",
+        "cal": 400,
+        "p": 22,
+        "c": 28,
+        "f": 20,
+        "desc": "2 eggs any style, ½ avocado on whole wheat toast"
+      },
+      {
+        "name": "Protein Banana Pancakes",
+        "cal": 360,
+        "p": 24,
+        "c": 40,
+        "f": 8,
+        "desc": "2 eggs + 1 banana blended & pan-fried — zero flour"
+      },
+      {
+        "name": "Egg & Tomato Scramble",
+        "cal": 280,
+        "p": 24,
+        "c": 10,
+        "f": 16,
+        "desc": "3 eggs, diced tomato, garlic, olive oil — simple & fast"
+      },
+      {
+        "name": "Oat & Egg White Bowl",
+        "cal": 320,
+        "p": 28,
+        "c": 38,
+        "f": 6,
+        "desc": "½ cup oats cooked, 3 egg whites stirred in at end"
+      },
+      {
+        "name": "Veggie Frittata",
+        "cal": 350,
+        "p": 28,
+        "c": 12,
+        "f": 20,
+        "desc": "3 eggs, zucchini, peppers, onion baked in pan"
+      },
+      {
+        "name": "Greek Yogurt + Oats",
+        "cal": 310,
+        "p": 22,
+        "c": 36,
+        "f": 6,
+        "desc": "½ cup Greek yogurt, ½ cup oats, cinnamon, no honey"
+      }
+    ],
+    "2": [
+      {
+        "name": "Egg White Omelette",
+        "cal": 280,
+        "p": 32,
+        "c": 10,
+        "f": 8,
+        "desc": "4 egg whites + 1 yolk, peppers, mushrooms"
+      },
+      {
+        "name": "Oats & Eggs",
+        "cal": 350,
+        "p": 24,
+        "c": 48,
+        "f": 7,
+        "desc": "½ cup oats, 2 boiled eggs on the side"
+      },
+      {
+        "name": "Greek Yogurt Bowl",
+        "cal": 290,
+        "p": 22,
+        "c": 28,
+        "f": 6,
+        "desc": "Plain Greek yogurt, banana, 1 tbsp honey"
+      },
+      {
+        "name": "High Protein Scramble",
+        "cal": 340,
+        "p": 30,
+        "c": 14,
+        "f": 16,
+        "desc": "4 eggs, spinach, salsa, whole wheat toast"
+      },
+      {
+        "name": "Cottage Cheese Plate",
+        "cal": 300,
+        "p": 28,
+        "c": 16,
+        "f": 10,
+        "desc": "½ cup cottage cheese, sliced fruit, handful almonds"
+      },
+      {
+        "name": "Egg & Smoked Salmon Wrap",
+        "cal": 370,
+        "p": 34,
+        "c": 22,
+        "f": 14,
+        "desc": "2 eggs, 60g smoked salmon, whole wheat wrap, greens"
+      },
+      {
+        "name": "Tuna & Egg Breakfast Bowl",
+        "cal": 350,
+        "p": 40,
+        "c": 10,
+        "f": 14,
+        "desc": "½ can tuna, 2 eggs, cucumber, olive oil — fast and filling"
+      },
+      {
+        "name": "Overnight Protein Oats",
+        "cal": 360,
+        "p": 24,
+        "c": 46,
+        "f": 8,
+        "desc": "Oats + Greek yogurt + banana left overnight in fridge"
+      },
+      {
+        "name": "Poached Eggs on Rye",
+        "cal": 330,
+        "p": 26,
+        "c": 26,
+        "f": 14,
+        "desc": "2 poached eggs on rye bread, sliced tomato, black coffee"
+      },
+      {
+        "name": "Mushroom & Egg Skillet",
+        "cal": 290,
+        "p": 26,
+        "c": 8,
+        "f": 18,
+        "desc": "3 eggs, 100g mushrooms, garlic, olive oil, fresh herbs"
+      }
+    ],
+    "3": [
+      {
+        "name": "Boiled Eggs + Oats",
+        "cal": 320,
+        "p": 26,
+        "c": 34,
+        "f": 10,
+        "desc": "3 boiled eggs, ½ cup plain oats, lemon water first"
+      },
+      {
+        "name": "Clean Egg Scramble",
+        "cal": 300,
+        "p": 28,
+        "c": 8,
+        "f": 16,
+        "desc": "3 eggs, spinach, black coffee — no toast in Phase 3"
+      },
+      {
+        "name": "Yogurt + Berries",
+        "cal": 240,
+        "p": 22,
+        "c": 24,
+        "f": 4,
+        "desc": "Plain Greek yogurt, ½ cup berries, no honey"
+      },
+      {
+        "name": "Egg Muffins Meal Prep",
+        "cal": 290,
+        "p": 28,
+        "c": 6,
+        "f": 16,
+        "desc": "4 eggs baked in muffin tin with mixed veg"
+      },
+      {
+        "name": "Smoked Salmon & Cucumber",
+        "cal": 260,
+        "p": 30,
+        "c": 4,
+        "f": 14,
+        "desc": "70g salmon, sliced cucumber, lemon, capers — clean Phase 3"
+      },
+      {
+        "name": "4-Egg White Omelette",
+        "cal": 250,
+        "p": 34,
+        "c": 6,
+        "f": 8,
+        "desc": "4 egg whites, spinach, mushrooms — max protein, no carbs"
+      },
+      {
+        "name": "Cottage Cheese & Flax",
+        "cal": 240,
+        "p": 26,
+        "c": 12,
+        "f": 8,
+        "desc": "½ cup cottage cheese, 1 tbsp flaxseed, ½ cup strawberries"
+      },
+      {
+        "name": "Protein Shake + Egg",
+        "cal": 280,
+        "p": 36,
+        "c": 14,
+        "f": 6,
+        "desc": "1 scoop whey in water, 1 boiled egg on the side"
+      },
+      {
+        "name": "Sardine & Spinach Plate",
+        "cal": 270,
+        "p": 32,
+        "c": 4,
+        "f": 14,
+        "desc": "1 tin sardines in water, baby spinach, lemon — omega-3 rich"
+      },
+      {
+        "name": "Egg & Avocado (no toast)",
+        "cal": 290,
+        "p": 20,
+        "c": 6,
+        "f": 22,
+        "desc": "2 eggs, ½ avocado, cherry tomatoes — healthy fats only"
+      }
+    ],
+    "4": [
+      {
+        "name": "Clean Egg Bowl",
+        "cal": 300,
+        "p": 30,
+        "c": 10,
+        "f": 16,
+        "desc": "3 eggs, salsa, spinach — zero carbs at breakfast"
+      },
+      {
+        "name": "Protein Oats",
+        "cal": 330,
+        "p": 28,
+        "c": 36,
+        "f": 8,
+        "desc": "Oats + 3 egg whites cooked in, cinnamon only"
+      },
+      {
+        "name": "Overnight Oats",
+        "cal": 350,
+        "p": 20,
+        "c": 46,
+        "f": 8,
+        "desc": "Oats, almond milk, chia seeds — prep night before"
+      },
+      {
+        "name": "Smoked Salmon + Eggs",
+        "cal": 310,
+        "p": 32,
+        "c": 4,
+        "f": 18,
+        "desc": "2 eggs, 60g smoked salmon, cucumber slices"
+      },
+      {
+        "name": "5-Egg White Omelette",
+        "cal": 270,
+        "p": 38,
+        "c": 4,
+        "f": 8,
+        "desc": "5 egg whites, mushrooms, spinach — peak Phase 4 breakfast"
+      },
+      {
+        "name": "Tuna Breakfast Bowl",
+        "cal": 290,
+        "p": 44,
+        "c": 4,
+        "f": 10,
+        "desc": "1 can tuna, sliced cucumber, mustard, lemon — no carbs"
+      },
+      {
+        "name": "Greek Yogurt Protein Bowl",
+        "cal": 300,
+        "p": 32,
+        "c": 18,
+        "f": 6,
+        "desc": "Full-fat Greek yogurt, protein powder stirred in, berries"
+      },
+      {
+        "name": "Lean Egg & Veg Scramble",
+        "cal": 280,
+        "p": 30,
+        "c": 8,
+        "f": 14,
+        "desc": "3 eggs, broccoli, peppers — zero starch, high protein"
+      },
+      {
+        "name": "Cold Overnight Protein Oats",
+        "cal": 340,
+        "p": 28,
+        "c": 38,
+        "f": 8,
+        "desc": "Oats, whey, almond milk, banana overnight — grab & go"
+      },
+      {
+        "name": "Poached Egg & Asparagus",
+        "cal": 260,
+        "p": 24,
+        "c": 6,
+        "f": 14,
+        "desc": "2 poached eggs, steamed asparagus, olive oil — elegant & clean"
+      }
+    ]
+  },
+  "lunch": {
+    "1": [
+      {
+        "name": "Tuna Rice Bowl",
+        "cal": 480,
+        "p": 38,
+        "c": 52,
+        "f": 10,
+        "desc": "1 can tuna, 1 cup white rice, cucumber, lemon juice"
+      },
+      {
+        "name": "Chicken & Lentils",
+        "cal": 460,
+        "p": 42,
+        "c": 40,
+        "f": 10,
+        "desc": "150g chicken breast, ½ cup lentils, olive oil, garlic"
+      },
+      {
+        "name": "Egg Salad Plate",
+        "cal": 380,
+        "p": 28,
+        "c": 14,
+        "f": 22,
+        "desc": "3 hard boiled eggs, big salad, olive oil + lemon"
+      },
+      {
+        "name": "Bean & Rice Bowl",
+        "cal": 440,
+        "p": 22,
+        "c": 68,
+        "f": 8,
+        "desc": "Black beans, brown rice, salsa, lime juice"
+      },
+      {
+        "name": "Chicken Fried Rice",
+        "cal": 500,
+        "p": 40,
+        "c": 54,
+        "f": 12,
+        "desc": "150g chicken, 1 cup brown rice, peas, egg, soy sauce"
+      },
+      {
+        "name": "Tuna Pasta Salad",
+        "cal": 460,
+        "p": 36,
+        "c": 48,
+        "f": 10,
+        "desc": "1 can tuna, whole wheat pasta, cucumber, olive oil"
+      },
+      {
+        "name": "Lentil & Egg Bowl",
+        "cal": 420,
+        "p": 30,
+        "c": 44,
+        "f": 10,
+        "desc": "½ cup lentils, 2 boiled eggs, greens, ACV dressing"
+      },
+      {
+        "name": "Chicken Sandwich (WW)",
+        "cal": 470,
+        "p": 42,
+        "c": 38,
+        "f": 12,
+        "desc": "150g chicken breast, whole wheat bread, mustard, tomato"
+      },
+      {
+        "name": "Sardine Rice Bowl",
+        "cal": 430,
+        "p": 38,
+        "c": 44,
+        "f": 10,
+        "desc": "1 tin sardines, brown rice, cucumber, soy sauce, sesame"
+      },
+      {
+        "name": "Chickpea & Tuna Salad",
+        "cal": 400,
+        "p": 34,
+        "c": 36,
+        "f": 12,
+        "desc": "½ cup chickpeas, 1 can tuna, tomato, lemon, olive oil"
+      }
+    ],
+    "2": [
+      {
+        "name": "Salmon & Sweet Potato",
+        "cal": 490,
+        "p": 40,
+        "c": 44,
+        "f": 14,
+        "desc": "150g canned salmon, medium sweet potato, mixed greens"
+      },
+      {
+        "name": "Tuna Big Salad",
+        "cal": 380,
+        "p": 42,
+        "c": 12,
+        "f": 14,
+        "desc": "2 cans tuna, big salad, olive oil + ACV dressing"
+      },
+      {
+        "name": "Chicken Stir Fry",
+        "cal": 470,
+        "p": 44,
+        "c": 36,
+        "f": 12,
+        "desc": "150g chicken, mixed veg, soy sauce, brown rice"
+      },
+      {
+        "name": "Lentil Veggie Soup",
+        "cal": 380,
+        "p": 22,
+        "c": 52,
+        "f": 6,
+        "desc": "Red lentils, carrots, celery, cumin — batch cook Sunday"
+      },
+      {
+        "name": "Turkey & Quinoa Bowl",
+        "cal": 480,
+        "p": 46,
+        "c": 42,
+        "f": 10,
+        "desc": "150g ground turkey, ½ cup quinoa, roasted veg"
+      },
+      {
+        "name": "Chicken Burrito Bowl",
+        "cal": 510,
+        "p": 44,
+        "c": 46,
+        "f": 12,
+        "desc": "Chicken, brown rice, black beans, salsa, no sour cream"
+      },
+      {
+        "name": "Shrimp & Rice Plate",
+        "cal": 450,
+        "p": 42,
+        "c": 44,
+        "f": 8,
+        "desc": "150g shrimp, brown rice, steamed broccoli, lemon"
+      },
+      {
+        "name": "Tuna & Sweet Potato",
+        "cal": 460,
+        "p": 40,
+        "c": 46,
+        "f": 8,
+        "desc": "1 can tuna, baked sweet potato, olive oil, herbs"
+      },
+      {
+        "name": "Ground Beef Bowl",
+        "cal": 500,
+        "p": 46,
+        "c": 36,
+        "f": 16,
+        "desc": "150g lean beef, brown rice, roasted peppers, salsa"
+      },
+      {
+        "name": "Greek Chicken Plate",
+        "cal": 470,
+        "p": 44,
+        "c": 20,
+        "f": 20,
+        "desc": "150g chicken, Greek salad, pita half, olive oil"
+      }
+    ],
+    "3": [
+      {
+        "name": "Protein Power Salad",
+        "cal": 420,
+        "p": 46,
+        "c": 14,
+        "f": 18,
+        "desc": "200g tuna/chicken, mixed greens, ACV dressing, chickpeas"
+      },
+      {
+        "name": "Shrimp & Brown Rice",
+        "cal": 460,
+        "p": 44,
+        "c": 42,
+        "f": 8,
+        "desc": "150g shrimp, ½ cup brown rice, steamed broccoli"
+      },
+      {
+        "name": "Chicken Lettuce Wraps",
+        "cal": 350,
+        "p": 42,
+        "c": 10,
+        "f": 12,
+        "desc": "Ground chicken, lettuce cups, cucumber, hot sauce"
+      },
+      {
+        "name": "Chickpea Power Bowl",
+        "cal": 430,
+        "p": 24,
+        "c": 52,
+        "f": 12,
+        "desc": "½ cup chickpeas, quinoa, roasted veg, tahini drizzle"
+      },
+      {
+        "name": "Double Tuna Salad",
+        "cal": 380,
+        "p": 50,
+        "c": 10,
+        "f": 14,
+        "desc": "2 cans tuna, spinach, tomato, ACV — maximum protein"
+      },
+      {
+        "name": "Turkey Lettuce Bowl",
+        "cal": 370,
+        "p": 44,
+        "c": 12,
+        "f": 14,
+        "desc": "150g ground turkey, romaine leaves, salsa, avocado"
+      },
+      {
+        "name": "Salmon & Greens",
+        "cal": 420,
+        "p": 44,
+        "c": 8,
+        "f": 22,
+        "desc": "150g salmon, big green salad, olive oil, lemon"
+      },
+      {
+        "name": "Egg & Quinoa Plate",
+        "cal": 440,
+        "p": 32,
+        "c": 44,
+        "f": 14,
+        "desc": "2 eggs, ½ cup quinoa, roasted veg, olive oil"
+      },
+      {
+        "name": "Cottage Cheese Power Bowl",
+        "cal": 360,
+        "p": 36,
+        "c": 24,
+        "f": 12,
+        "desc": "½ cup cottage cheese, chickpeas, cucumber, herbs"
+      },
+      {
+        "name": "Tuna & Cauliflower Rice",
+        "cal": 340,
+        "p": 46,
+        "c": 14,
+        "f": 10,
+        "desc": "2 cans tuna, cauliflower rice stir-fried, soy, garlic"
+      }
+    ],
+    "4": [
+      {
+        "name": "Lean Protein Plate",
+        "cal": 400,
+        "p": 48,
+        "c": 16,
+        "f": 12,
+        "desc": "200g chicken or tuna, large salad, lemon + olive oil"
+      },
+      {
+        "name": "Turkey & Veg Bowl",
+        "cal": 420,
+        "p": 46,
+        "c": 18,
+        "f": 10,
+        "desc": "150g ground turkey, roasted veg, cauliflower rice"
+      },
+      {
+        "name": "Double Tuna Plate",
+        "cal": 380,
+        "p": 50,
+        "c": 8,
+        "f": 14,
+        "desc": "2 cans tuna, cucumber, tomato, mustard, no carbs"
+      },
+      {
+        "name": "Black Bean Salad",
+        "cal": 360,
+        "p": 20,
+        "c": 46,
+        "f": 8,
+        "desc": "Black beans, corn, tomato, cilantro, lime"
+      },
+      {
+        "name": "Chicken & Asparagus",
+        "cal": 380,
+        "p": 50,
+        "c": 10,
+        "f": 12,
+        "desc": "200g chicken breast, steamed asparagus, lemon, herbs"
+      },
+      {
+        "name": "Shrimp Power Bowl",
+        "cal": 360,
+        "p": 46,
+        "c": 12,
+        "f": 10,
+        "desc": "200g shrimp, cucumber, avocado ½, lemon — Phase 4 clean"
+      },
+      {
+        "name": "Sardine & Egg Plate",
+        "cal": 340,
+        "p": 44,
+        "c": 4,
+        "f": 16,
+        "desc": "1 tin sardines, 2 hard boiled eggs, greens, mustard"
+      },
+      {
+        "name": "Turkey Salad (no carbs)",
+        "cal": 370,
+        "p": 48,
+        "c": 6,
+        "f": 16,
+        "desc": "200g turkey, arugula, cherry tomato, olive oil, ACV"
+      },
+      {
+        "name": "Cod & Steamed Broccoli",
+        "cal": 320,
+        "p": 46,
+        "c": 8,
+        "f": 6,
+        "desc": "150g cod fillet, steamed broccoli, lemon, olive oil"
+      },
+      {
+        "name": "Egg White Protein Plate",
+        "cal": 300,
+        "p": 42,
+        "c": 6,
+        "f": 10,
+        "desc": "5 egg whites, spinach, tomato, black coffee — peak Phase 4"
+      }
+    ]
+  },
+  "snack": {
+    "1": [
+      {
+        "name": "Apple & Almonds",
+        "cal": 180,
+        "p": 4,
+        "c": 24,
+        "f": 10,
+        "desc": "1 medium apple, 10 raw almonds"
+      },
+      {
+        "name": "Banana & Peanut Butter",
+        "cal": 210,
+        "p": 6,
+        "c": 28,
+        "f": 8,
+        "desc": "1 banana, 1 tbsp natural peanut butter"
+      },
+      {
+        "name": "Hard Boiled Egg",
+        "cal": 80,
+        "p": 6,
+        "c": 0,
+        "f": 6,
+        "desc": "1 hard boiled egg, pinch of salt"
+      },
+      {
+        "name": "Carrot & Hummus",
+        "cal": 140,
+        "p": 6,
+        "c": 18,
+        "f": 6,
+        "desc": "1 cup baby carrots, 2 tbsp hummus"
+      },
+      {
+        "name": "Greek Yogurt Cup",
+        "cal": 140,
+        "p": 16,
+        "c": 8,
+        "f": 4,
+        "desc": "Plain Greek yogurt, no toppings — quick and clean"
+      },
+      {
+        "name": "Orange & Walnuts",
+        "cal": 170,
+        "p": 4,
+        "c": 22,
+        "f": 8,
+        "desc": "1 orange, small handful walnuts — antioxidants + fats"
+      },
+      {
+        "name": "Rice Cake & Peanut Butter",
+        "cal": 160,
+        "p": 5,
+        "c": 20,
+        "f": 7,
+        "desc": "1 rice cake, 1 tbsp natural peanut butter, banana slices"
+      },
+      {
+        "name": "Tuna & Crackers",
+        "cal": 190,
+        "p": 20,
+        "c": 14,
+        "f": 6,
+        "desc": "½ can tuna, 4 whole grain crackers, mustard"
+      },
+      {
+        "name": "Boiled Egg + Apple",
+        "cal": 175,
+        "p": 6,
+        "c": 25,
+        "f": 5,
+        "desc": "1 boiled egg, 1 small apple — protein + natural sugar"
+      },
+      {
+        "name": "Cottage Cheese Cup",
+        "cal": 120,
+        "p": 14,
+        "c": 6,
+        "f": 4,
+        "desc": "½ cup low-fat cottage cheese — slow digesting protein"
+      }
+    ],
+    "2": [
+      {
+        "name": "Greek Yogurt",
+        "cal": 140,
+        "p": 16,
+        "c": 8,
+        "f": 4,
+        "desc": "Plain low-fat Greek yogurt, no toppings"
+      },
+      {
+        "name": "Rice Cakes & Tuna",
+        "cal": 160,
+        "p": 18,
+        "c": 16,
+        "f": 2,
+        "desc": "2 rice cakes, ½ can tuna — clean and filling"
+      },
+      {
+        "name": "Boiled Egg + Cucumber",
+        "cal": 100,
+        "p": 8,
+        "c": 4,
+        "f": 6,
+        "desc": "1 egg, ½ cucumber sliced with salt"
+      },
+      {
+        "name": "Cottage Cheese",
+        "cal": 120,
+        "p": 14,
+        "c": 6,
+        "f": 4,
+        "desc": "½ cup low-fat cottage cheese — slow protein"
+      },
+      {
+        "name": "Protein Shake",
+        "cal": 120,
+        "p": 24,
+        "c": 4,
+        "f": 1,
+        "desc": "1 scoop whey isolate in water — between meals if needed"
+      },
+      {
+        "name": "Apple & Walnuts",
+        "cal": 180,
+        "p": 3,
+        "c": 24,
+        "f": 9,
+        "desc": "1 apple, 5 walnut halves — fiber + omega-3"
+      },
+      {
+        "name": "Sardine & Rice Cake",
+        "cal": 150,
+        "p": 18,
+        "c": 12,
+        "f": 4,
+        "desc": "½ tin sardines, 1 rice cake — cheap, clean, high protein"
+      },
+      {
+        "name": "Almond Butter & Celery",
+        "cal": 140,
+        "p": 4,
+        "c": 8,
+        "f": 11,
+        "desc": "1 tbsp almond butter, 3 celery stalks — filling crunch"
+      },
+      {
+        "name": "Hard Boiled Eggs ×2",
+        "cal": 160,
+        "p": 12,
+        "c": 0,
+        "f": 12,
+        "desc": "2 hard boiled eggs, salt + pepper — simple satiety"
+      },
+      {
+        "name": "Mango Chunks",
+        "cal": 100,
+        "p": 1,
+        "c": 25,
+        "f": 0,
+        "desc": "½ mango — natural carbs, zero processed sugar"
+      }
+    ],
+    "3": [
+      {
+        "name": "Boiled Egg Only",
+        "cal": 80,
+        "p": 6,
+        "c": 0,
+        "f": 6,
+        "desc": "1 hard boiled egg — clean, zero carbs"
+      },
+      {
+        "name": "Skip / Intermittent Fast",
+        "cal": 0,
+        "p": 0,
+        "c": 0,
+        "f": 0,
+        "desc": "Best option in Phase 3 — skip snack, fast until dinner"
+      },
+      {
+        "name": "Black Coffee",
+        "cal": 5,
+        "p": 0,
+        "c": 1,
+        "f": 0,
+        "desc": "Black coffee kills hunger, zero calories"
+      },
+      {
+        "name": "Cucumber Slices",
+        "cal": 20,
+        "p": 1,
+        "c": 4,
+        "f": 0,
+        "desc": "Sliced cucumber, salt, chili flakes — fills the stomach"
+      },
+      {
+        "name": "Boiled Eggs ×2",
+        "cal": 160,
+        "p": 12,
+        "c": 0,
+        "f": 12,
+        "desc": "2 boiled eggs if hunger is strong — no carbs"
+      },
+      {
+        "name": "Sparkling Water + Lemon",
+        "cal": 5,
+        "p": 0,
+        "c": 1,
+        "f": 0,
+        "desc": "Carbonation curbs appetite — zero calories Phase 3 hack"
+      },
+      {
+        "name": "Celery Sticks",
+        "cal": 15,
+        "p": 0,
+        "c": 3,
+        "f": 0,
+        "desc": "Unlimited celery — negative calorie, fills stomach"
+      },
+      {
+        "name": "Sardines (water packed)",
+        "cal": 120,
+        "p": 22,
+        "c": 0,
+        "f": 4,
+        "desc": "½ tin sardines in water only — protein with minimal cals"
+      },
+      {
+        "name": "Green Tea × 2",
+        "cal": 4,
+        "p": 0,
+        "c": 1,
+        "f": 0,
+        "desc": "2 cups green tea, no sugar — metabolism + appetite control"
+      },
+      {
+        "name": "Protein Shake (half)",
+        "cal": 60,
+        "p": 12,
+        "c": 2,
+        "f": 1,
+        "desc": "Half scoop whey in water if hunger is severe — last resort"
+      }
+    ],
+    "4": [
+      {
+        "name": "Skip Snack",
+        "cal": 0,
+        "p": 0,
+        "c": 0,
+        "f": 0,
+        "desc": "No snack — meals are fully optimized in Phase 4"
+      },
+      {
+        "name": "Green Tea",
+        "cal": 2,
+        "p": 0,
+        "c": 0,
+        "f": 0,
+        "desc": "Green tea, no sugar — metabolic boost"
+      },
+      {
+        "name": "15 Almonds",
+        "cal": 100,
+        "p": 4,
+        "c": 4,
+        "f": 9,
+        "desc": "Exactly 15 almonds — healthy fat, portion controlled"
+      },
+      {
+        "name": "Protein Shake (water)",
+        "cal": 120,
+        "p": 24,
+        "c": 4,
+        "f": 1,
+        "desc": "Whey isolate in water only if very hungry"
+      },
+      {
+        "name": "Black Coffee + Cinnamon",
+        "cal": 8,
+        "p": 0,
+        "c": 2,
+        "f": 0,
+        "desc": "Black coffee with cinnamon — insulin sensitivity + no cals"
+      },
+      {
+        "name": "2 Hard Boiled Eggs",
+        "cal": 160,
+        "p": 12,
+        "c": 0,
+        "f": 12,
+        "desc": "2 eggs — absolute minimum clean snack in Phase 4"
+      },
+      {
+        "name": "Sparkling Water Fast",
+        "cal": 0,
+        "p": 0,
+        "c": 0,
+        "f": 0,
+        "desc": "Sparkling water only — extend the fast through afternoon"
+      },
+      {
+        "name": "5 Walnut Halves",
+        "cal": 90,
+        "p": 2,
+        "c": 2,
+        "f": 9,
+        "desc": "5 walnut halves — brain fuel, healthy omega-3, nothing else"
+      },
+      {
+        "name": "½ Scoop Whey (water)",
+        "cal": 60,
+        "p": 12,
+        "c": 2,
+        "f": 0,
+        "desc": "Half scoop whey protein in plain water — emergency only"
+      },
+      {
+        "name": "Celery & Mustard",
+        "cal": 25,
+        "p": 1,
+        "c": 4,
+        "f": 0,
+        "desc": "Celery with mustard dip — near-zero calorie crunch Phase 4"
+      }
+    ]
+  },
+  "dinner": {
+    "1": [
+      {
+        "name": "Chicken & Broccoli Bowl",
+        "cal": 480,
+        "p": 46,
+        "c": 36,
+        "f": 12,
+        "desc": "150g chicken, 1 cup brown rice, steamed broccoli, olive oil"
+      },
+      {
+        "name": "Lentil Dal & Rice",
+        "cal": 420,
+        "p": 24,
+        "c": 58,
+        "f": 6,
+        "desc": "Red lentils, tomatoes, cumin, garlic, brown rice"
+      },
+      {
+        "name": "Baked Chicken & Veg",
+        "cal": 440,
+        "p": 48,
+        "c": 20,
+        "f": 12,
+        "desc": "150g chicken breast, roasted zucchini + carrots"
+      },
+      {
+        "name": "Tuna & Rice Bowl",
+        "cal": 460,
+        "p": 40,
+        "c": 48,
+        "f": 8,
+        "desc": "1 can tuna, brown rice, steamed broccoli, soy sauce"
+      },
+      {
+        "name": "Chicken & Sweet Potato",
+        "cal": 490,
+        "p": 44,
+        "c": 42,
+        "f": 10,
+        "desc": "150g chicken, baked sweet potato, olive oil, herbs"
+      },
+      {
+        "name": "Turkey & Rice Bowl",
+        "cal": 470,
+        "p": 42,
+        "c": 46,
+        "f": 8,
+        "desc": "150g ground turkey, brown rice, steamed broccoli, garlic"
+      },
+      {
+        "name": "Egg Fried Rice Bowl",
+        "cal": 450,
+        "p": 28,
+        "c": 52,
+        "f": 14,
+        "desc": "2 eggs, brown rice, peas, carrots, soy sauce — filling"
+      },
+      {
+        "name": "Salmon & Brown Rice",
+        "cal": 500,
+        "p": 42,
+        "c": 44,
+        "f": 14,
+        "desc": "150g salmon fillet, brown rice, lemon, steamed green beans"
+      },
+      {
+        "name": "Chickpea Curry & Rice",
+        "cal": 430,
+        "p": 20,
+        "c": 62,
+        "f": 8,
+        "desc": "Chickpeas in tomato-cumin sauce, brown rice — batch friendly"
+      },
+      {
+        "name": "Steak & Veggie Plate",
+        "cal": 510,
+        "p": 48,
+        "c": 14,
+        "f": 26,
+        "desc": "150g lean steak, steamed broccoli, garlic butter — treat night"
+      }
+    ],
+    "2": [
+      {
+        "name": "Chicken & Quinoa",
+        "cal": 480,
+        "p": 48,
+        "c": 42,
+        "f": 10,
+        "desc": "200g chicken breast, ½ cup quinoa, steamed zucchini"
+      },
+      {
+        "name": "Salmon & Green Beans",
+        "cal": 460,
+        "p": 44,
+        "c": 10,
+        "f": 22,
+        "desc": "150g salmon, green beans, olive oil, lemon"
+      },
+      {
+        "name": "Turkey Meatballs & Veg",
+        "cal": 440,
+        "p": 44,
+        "c": 22,
+        "f": 16,
+        "desc": "Ground turkey, tomato sauce, zucchini noodles"
+      },
+      {
+        "name": "Stir Fry & Brown Rice",
+        "cal": 490,
+        "p": 46,
+        "c": 46,
+        "f": 8,
+        "desc": "Chicken, mixed veg, low-sodium soy, brown rice"
+      },
+      {
+        "name": "Baked Salmon & Asparagus",
+        "cal": 460,
+        "p": 46,
+        "c": 8,
+        "f": 24,
+        "desc": "150g salmon, asparagus, olive oil, lemon — premium clean"
+      },
+      {
+        "name": "Shrimp & Quinoa Bowl",
+        "cal": 450,
+        "p": 46,
+        "c": 40,
+        "f": 10,
+        "desc": "150g shrimp, ½ cup quinoa, roasted peppers, garlic"
+      },
+      {
+        "name": "Turkey Chili",
+        "cal": 430,
+        "p": 44,
+        "c": 36,
+        "f": 10,
+        "desc": "Ground turkey, black beans, tomato, cumin — batch cook"
+      },
+      {
+        "name": "Chicken Tikka (no cream)",
+        "cal": 470,
+        "p": 48,
+        "c": 22,
+        "f": 16,
+        "desc": "Chicken in tomato-spice sauce, no cream, with basmati rice"
+      },
+      {
+        "name": "Tuna Steak & Veg",
+        "cal": 420,
+        "p": 50,
+        "c": 10,
+        "f": 16,
+        "desc": "150g tuna steak, steamed broccoli + beans, olive oil"
+      },
+      {
+        "name": "Cod & Sweet Potato Mash",
+        "cal": 450,
+        "p": 44,
+        "c": 38,
+        "f": 10,
+        "desc": "150g cod fillet, sweet potato mash, steamed greens"
+      }
+    ],
+    "3": [
+      {
+        "name": "Lean Protein + Veg Only",
+        "cal": 380,
+        "p": 46,
+        "c": 12,
+        "f": 14,
+        "desc": "150g chicken/fish, large steamed veg — NO starch at dinner"
+      },
+      {
+        "name": "Shrimp Stir Fry (no rice)",
+        "cal": 360,
+        "p": 42,
+        "c": 14,
+        "f": 10,
+        "desc": "200g shrimp, bok choy, garlic — no rice in Phase 3"
+      },
+      {
+        "name": "Baked Cod & Asparagus",
+        "cal": 320,
+        "p": 44,
+        "c": 8,
+        "f": 8,
+        "desc": "150g cod, asparagus, lemon, herbs — super lean"
+      },
+      {
+        "name": "Ground Turkey Bowl",
+        "cal": 400,
+        "p": 46,
+        "c": 16,
+        "f": 14,
+        "desc": "150g turkey, cauliflower rice, salsa, no real carbs"
+      },
+      {
+        "name": "Chicken & Cauliflower Rice",
+        "cal": 370,
+        "p": 48,
+        "c": 14,
+        "f": 12,
+        "desc": "150g chicken, cauliflower rice stir-fried with garlic"
+      },
+      {
+        "name": "Salmon & Steamed Broccoli",
+        "cal": 400,
+        "p": 44,
+        "c": 8,
+        "f": 20,
+        "desc": "150g salmon, steamed broccoli, lemon, dill — no starch"
+      },
+      {
+        "name": "Turkey & Zucchini Noodles",
+        "cal": 360,
+        "p": 44,
+        "c": 12,
+        "f": 14,
+        "desc": "150g turkey, zucchini spirals, tomato sauce — zero carbs"
+      },
+      {
+        "name": "Baked Chicken Thighs & Veg",
+        "cal": 390,
+        "p": 46,
+        "c": 10,
+        "f": 18,
+        "desc": "2 chicken thighs skinless, roasted broccoli + peppers"
+      },
+      {
+        "name": "Tuna & Steamed Spinach",
+        "cal": 300,
+        "p": 46,
+        "c": 6,
+        "f": 8,
+        "desc": "2 cans tuna, steamed spinach, garlic, olive oil splash"
+      },
+      {
+        "name": "White Fish & Green Beans",
+        "cal": 310,
+        "p": 44,
+        "c": 8,
+        "f": 8,
+        "desc": "150g tilapia, green beans, lemon, herbs — ultra clean"
+      }
+    ],
+    "4": [
+      {
+        "name": "Grilled Chicken & Greens",
+        "cal": 360,
+        "p": 48,
+        "c": 8,
+        "f": 12,
+        "desc": "200g chicken, massive salad, olive oil — max protein"
+      },
+      {
+        "name": "Tuna & Steamed Veg",
+        "cal": 300,
+        "p": 46,
+        "c": 8,
+        "f": 6,
+        "desc": "2 cans tuna, broccoli, green beans, lemon — cleanest meal"
+      },
+      {
+        "name": "Egg White Omelette",
+        "cal": 280,
+        "p": 32,
+        "c": 6,
+        "f": 12,
+        "desc": "5 egg whites, mushrooms, spinach — light and lean"
+      },
+      {
+        "name": "White Fish & Veg",
+        "cal": 320,
+        "p": 44,
+        "c": 10,
+        "f": 8,
+        "desc": "150g tilapia or cod, steamed veg, herbs"
+      },
+      {
+        "name": "Shrimp & Cucumber Salad",
+        "cal": 290,
+        "p": 44,
+        "c": 8,
+        "f": 8,
+        "desc": "200g shrimp, cucumber, cherry tomato, lemon — Phase 4 peak"
+      },
+      {
+        "name": "Chicken Breast & Asparagus",
+        "cal": 340,
+        "p": 50,
+        "c": 6,
+        "f": 10,
+        "desc": "200g chicken breast, steamed asparagus, lemon, olive oil"
+      },
+      {
+        "name": "Salmon Salad (no dressing)",
+        "cal": 350,
+        "p": 44,
+        "c": 6,
+        "f": 18,
+        "desc": "150g salmon, arugula, cherry tomato, lemon only — clean"
+      },
+      {
+        "name": "Ground Turkey & Cauliflower",
+        "cal": 340,
+        "p": 46,
+        "c": 12,
+        "f": 12,
+        "desc": "200g turkey, cauliflower rice, spinach, garlic — Phase 4"
+      },
+      {
+        "name": "Cod & Kale Plate",
+        "cal": 300,
+        "p": 44,
+        "c": 8,
+        "f": 8,
+        "desc": "150g cod, sautéed kale, garlic, lemon — cleanest dinner"
+      },
+      {
+        "name": "Turkey Breast Plate",
+        "cal": 320,
+        "p": 50,
+        "c": 4,
+        "f": 10,
+        "desc": "200g turkey breast, steamed broccoli, mustard — competition prep"
+      }
+    ]
+  }
+}
