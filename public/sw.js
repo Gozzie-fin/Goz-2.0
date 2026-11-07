@@ -1,6 +1,6 @@
 // Goz 2.0 — Service Worker
 
-const CACHE = 'goz-v2';
+const CACHE = 'goz-v14';
 const notifTimers = [];
 
 self.addEventListener('install', () => self.skipWaiting());

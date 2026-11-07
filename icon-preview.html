@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0a0a0a; display: flex; gap: 40px; padding: 48px; align-items: flex-start; flex-wrap: wrap; }
+  .icon-wrap { display: flex; flex-direction: column; align-items: center; gap: 12px; }
+  span { color: #555; font-family: monospace; font-size: 12px; }
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+<!-- 512×512 final -->
+<div class="icon-wrap">
+<svg id="icon512" width="280" height="280" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="40%" cy="22%" r="80%">
+      <stop offset="0%" stop-color="#111116"/>
+      <stop offset="100%" stop-color="#050507"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="44%" r="46%">
+      <stop offset="0%" stop-color="#cefc00" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <filter id="glow1">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowG">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow20">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <rect width="512" height="512" fill="url(#halo)"/>
+
+  <!-- Ring 1 — lime (outer), 82% filled -->
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#cefc00" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#cefc00" stroke-width="16"
+    stroke-dasharray="1175 1433" stroke-linecap="round"
+    transform="rotate(-90 256 256)" filter="url(#glow1)"/>
+
+  <!-- Ring 2 — cyan (mid), 65% filled -->
+  <circle cx="256" cy="256" r="202" fill="none" stroke="#00d2ff" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="202" fill="none" stroke="#00d2ff" stroke-width="16"
+    stroke-dasharray="825 1269" stroke-linecap="round"
+    transform="rotate(-90 256 256)" filter="url(#glow1)" opacity="0.85"/>
+
+  <!-- Ring 3 — magenta (inner), 45% filled -->
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#ff50c8" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#ff50c8" stroke-width="16"
+    stroke-dasharray="497 1106" stroke-linecap="round"
+    transform="rotate(-90 256 256)" filter="url(#glow1)" opacity="0.75"/>
+
+  <!-- G — bold, centred, slightly high to make room for 2.0 -->
+  <text x="256" y="318" font-family="'Space Grotesk',sans-serif" font-size="252" font-weight="700"
+    fill="#cefc00" text-anchor="middle" filter="url(#glowG)">G</text>
+
+  <!-- 2.0 — mono, inside at bottom, between G and inner ring -->
+  <text x="256" y="406" font-family="'JetBrains Mono',monospace" font-size="68" font-weight="600"
+    fill="#cefc00" text-anchor="middle" letter-spacing="4" opacity="0.75" filter="url(#glow20)">2.0</text>
+
+</svg>
+<span>512 × 512</span>
+</div>
+
+<!-- 192×192 preview -->
+<div class="icon-wrap">
+<svg width="192" height="192" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg2" cx="40%" cy="22%" r="80%">
+      <stop offset="0%" stop-color="#111116"/>
+      <stop offset="100%" stop-color="#050507"/>
+    </radialGradient>
+    <radialGradient id="halo2" cx="50%" cy="44%" r="46%">
+      <stop offset="0%" stop-color="#cefc00" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <filter id="glow1b">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowGb">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow20b">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg2)"/>
+  <rect width="512" height="512" fill="url(#halo2)"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#cefc00" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#cefc00" stroke-width="16"
+    stroke-dasharray="1175 1433" stroke-linecap="round" transform="rotate(-90 256 256)" filter="url(#glow1b)"/>
+  <circle cx="256" cy="256" r="202" fill="none" stroke="#00d2ff" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="202" fill="none" stroke="#00d2ff" stroke-width="16"
+    stroke-dasharray="825 1269" stroke-linecap="round" transform="rotate(-90 256 256)" filter="url(#glow1b)" opacity="0.85"/>
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#ff50c8" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#ff50c8" stroke-width="16"
+    stroke-dasharray="497 1106" stroke-linecap="round" transform="rotate(-90 256 256)" filter="url(#glow1b)" opacity="0.75"/>
+  <text x="256" y="318" font-family="'Space Grotesk',sans-serif" font-size="252" font-weight="700"
+    fill="#cefc00" text-anchor="middle" filter="url(#glowGb)">G</text>
+  <text x="256" y="406" font-family="'JetBrains Mono',monospace" font-size="68" font-weight="600"
+    fill="#cefc00" text-anchor="middle" letter-spacing="4" opacity="0.75" filter="url(#glow20b)">2.0</text>
+</svg>
+<span>192 × 192</span>
+</div>
+
+<!-- Small size test -->
+<div class="icon-wrap">
+<svg width="80" height="80" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg3" cx="40%" cy="22%" r="80%">
+      <stop offset="0%" stop-color="#111116"/>
+      <stop offset="100%" stop-color="#050507"/>
+    </radialGradient>
+    <filter id="glow1c">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowGc">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg3)"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#cefc00" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="228" fill="none" stroke="#cefc00" stroke-width="16"
+    stroke-dasharray="1175 1433" stroke-linecap="round" transform="rotate(-90 256 256)" filter="url(#glow1c)"/>
+  <circle cx="256" cy="256" r="202" fill="none" stroke="#00d2ff" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="202" fill="none" stroke="#00d2ff" stroke-width="16"
+    stroke-dasharray="825 1269" stroke-linecap="round" transform="rotate(-90 256 256)" filter="url(#glow1c)" opacity="0.85"/>
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#ff50c8" stroke-width="16" opacity="0.07"/>
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#ff50c8" stroke-width="16"
+    stroke-dasharray="497 1106" stroke-linecap="round" transform="rotate(-90 256 256)" filter="url(#glow1c)" opacity="0.75"/>
+  <text x="256" y="318" font-family="'Space Grotesk',sans-serif" font-size="252" font-weight="700"
+    fill="#cefc00" text-anchor="middle" filter="url(#glowGc)">G</text>
+  <text x="256" y="406" font-family="'JetBrains Mono',monospace" font-size="68" font-weight="600"
+    fill="#cefc00" text-anchor="middle" letter-spacing="4" opacity="0.75" filter="url(#glow1c)">2.0</text>
+</svg>
+<span>80px (home screen size)</span>
+</div>
+
+<!-- Canvas export buttons -->
+<div style="width:100%;margin-top:20px;display:flex;gap:16px;align-items:center">
+  <button onclick="exportPNG(512,'icon-512.png')" style="background:#cefc00;color:#000;border:0;padding:12px 24px;border-radius:8px;font-family:monospace;font-size:13px;font-weight:700;cursor:pointer">Export 512×512</button>
+  <button onclick="exportPNG(192,'icon-192.png')" style="background:#cefc00;color:#000;border:0;padding:12px 24px;border-radius:8px;font-family:monospace;font-size:13px;font-weight:700;cursor:pointer">Export 192×192</button>
+</div>
+
+<script>
+function exportPNG(size, filename) {
+  const svg = document.getElementById('icon512');
+  const svgData = new XMLSerializer().serializeToString(svg);
+  const canvas = document.createElement('canvas');
+  canvas.width = size; canvas.height = size;
+  const ctx = canvas.getContext('2d');
+  const img = new Image();
+  const blob = new Blob([svgData], {type:'image/svg+xml'});
+  const url = URL.createObjectURL(blob);
+  img.onload = () => {
+    ctx.drawImage(img, 0, 0, size, size);
+    URL.revokeObjectURL(url);
+    const a = document.createElement('a');
+    a.download = filename;
+    a.href = canvas.toDataURL('image/png');
+    a.click();
+  };
+  img.src = url;
+}
+</script>
+</body>
+</html>
